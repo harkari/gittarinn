@@ -1,4 +1,4 @@
 # gittarinn
 ## Virkar 
-[Mogginn](http://www.mbl.is)
-[Visir](http://www.visir.is)
+1. [Mogginn](http://www.mbl.is)
+2. [Visir](http://www.visir.is)
